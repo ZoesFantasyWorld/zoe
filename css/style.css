@@ -604,13 +604,22 @@ textarea {
   }
 
   .home-hero {
-    min-height: calc(100vh - 80px);
-    padding-top: 70px;
+    min-height: auto;
+    padding: 50px 0 45px;
   }
 
   .home-hero-bottom {
     flex-direction: column;
     align-items: flex-start;
+    margin-top: 28px;
+  }
+
+  .section {
+    padding: 60px 0;
+  }
+
+  .page-hero {
+    padding: 65px 0 55px;
   }
 
   .clean-grid {
