@@ -192,7 +192,7 @@ select {
 }
 
 .page-hero {
-  padding: 110px 0 90px;
+  padding: 110px 0 110px;
 }
 
 .eyebrow {
@@ -407,7 +407,6 @@ select {
   background: #e7e4dd;
   display: flex;
   align-items: end;
-  padding: 20px;
   position: relative;
   overflow: hidden;
 }
@@ -612,6 +611,14 @@ textarea {
     flex-direction: column;
     align-items: flex-start;
     margin-top: 28px;
+  }
+
+  .home-hero h1 {
+    font-size: 48px;
+  }
+
+  .display-title {
+    font-size: 42px;
   }
 
   .section {
