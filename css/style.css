@@ -649,7 +649,7 @@ textarea {
 
   .gallery-item,
   .gallery-item:nth-child(3n) {
-    min-height: 360px;
+   min-height: 120px;
   }
 
   .form-grid {
